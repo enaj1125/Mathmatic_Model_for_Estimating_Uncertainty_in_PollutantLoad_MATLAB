@@ -1,4 +1,7 @@
-# MATLAB_MS_Thesis_Code
+# Master Thesis
+Yan Jiang, Engineering in Purdue
+
+Developed a published mathematic model for forecasting the errors in estimated pollutant loads (eg.nitrate-N).
 
 The codes that make this paper happens: 
 
